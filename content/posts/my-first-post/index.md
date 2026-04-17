@@ -12,7 +12,7 @@ showComments = true
 
 ## The goal: escape tutorial hell
 
-What an experience! I must admit that I was stuck in what professionals call "tutorial hell". One day, I stumbled upon [Web Developete](https://www.youtube.com/@Developete)'s channel on YouTube. His message? **"Just do stuff!"** I also stumbled upon other developers' videos and channels, and the message from the serious ones was the same, plus **\*"make the AI teach you"**.
+What an experience! I must admit that I was stuck in what professionals call "tutorial hell". One day, I stumbled upon [Web Developete](https://www.youtube.com/@Developete)'s channel on YouTube. His message? **"Just do stuff!"** I also stumbled upon other developers' videos and channels, and the message from the serious ones was the same, plus **"make the AI teach you"**.
 
 So, I thought: "How can I do that?" I asked a prompt generator site to create one that asks the AI to stop giving me code. Instead, it should encourage me to look things up on the Internet: official docs, Stack Overflow, Google, etc. I even mentioned that I want to get out of tutorial hell! The result? A prompt that I could copy and paste to my own profile on Claude.
 
