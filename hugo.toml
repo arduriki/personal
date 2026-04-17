@@ -1,0 +1,3 @@
+baseURL = 'https://arduriki.dev/'
+locale = 'en-us'
+title = 'My New Hugo Project'

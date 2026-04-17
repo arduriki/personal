@@ -1,0 +1,29 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Arduriki"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Jordi Ardura Personal Site"
+
+[[params.author.links]]
+email = "jordi.ardura.professional@gmail.com"
+
+[[params.author.links]]
+github = "https://github.com/arduriki"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/jordi-ardura-gomez/?locale=en-US"
+
+["params.author"]
+name = "Jordi Ardura"
+email = "jordi.ardura.professional@gmail.com"
+image = "profile.jpeg"
+imageQuality = "96"
+headline = "Backend Engineer"
+bio = "I started my career understanding how signals travel — telecommunications, ISP infrastructure, routers, firewalls. Then I moved into software. But I never stopped wanting to understand what happens underneath. Today I build backend systems professionally in Python, and I'm learning C and network programming to close the gap between the application layer and the wire. I want to be the developer who can explain both."
