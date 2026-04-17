@@ -21,6 +21,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
+defaultSocialImate = "social-preview.jpeg"
 
 [header]
 layout = "basic"
